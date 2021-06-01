@@ -82,6 +82,7 @@
     <EmbeddedResource Include="Data\EncryptKey2.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
+    <Content Include="Documentation\Legal\Legal_ReadMe.txt" />
     <Content Include="Documentation\ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
