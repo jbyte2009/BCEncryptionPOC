@@ -66,7 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Documentation\094-0036.pdf" />
+    <None Include="Documentation\Legal\094-0036.pdf" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
